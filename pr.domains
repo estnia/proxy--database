@@ -1,3 +1,15 @@
+#Apple组
+developer.apple.com
+digicert.com
+com.apple.trustd*
+apple-dns.net
+testflight.apple.com
+sandbox.itunes.apple.com
+itunes.apple.com
+apps.apple.com
+blobstore.apple.com
+cvws.icloud-content.com
+
 #Dropbox组
 .notify.dropboxapi.com
 .dropbox.com
