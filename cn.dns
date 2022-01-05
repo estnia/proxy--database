@@ -443,6 +443,9 @@ jd.hk = server:119.29.29.29
 *.bilibili.com = server:119.29.29.29
 *.iqiyi.com = server:119.29.29.29
 *.baidu.com = server:119.29.29.29
+*.163.com = server:119.29.29.29
+*.126.com = server:119.29.29.29
+*.sina.com.cn = server:119.29.29.29
 
 #microsoft
 bg.v4.a.dl.ws.microsoft.com = server:119.29.29.29
