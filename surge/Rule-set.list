@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,mikanani.me,Global
 DOMAIN-SUFFIX,amazon.co.jp,Global
 DOMAIN-SUFFIX,pixiv.net,Global
 DOMAIN-SUFFIX,pixnet.net,Global
@@ -13,7 +14,7 @@ DOMAIN-SUFFIX,facebook.com,Global
 DOMAIN-SUFFIX,fb.com,Global
 
 #others组,Global
-DOMAIN-SUFFIX,synology.com,Global
+DOMAIN-SUFFIX,v2ex.com,Global
 DOMAIN-SUFFIX,ftimg.net,Global
 DOMAIN-SUFFIX,wsjhk.com,Global
 DOMAIN-SUFFIX,ccsx.tw,Global
