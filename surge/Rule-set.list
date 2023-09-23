@@ -173,6 +173,8 @@ DOMAIN-SUFFIX,imdb.com,Global
 DOMAIN-SUFFIX,imdb.to,Global
 DOMAIN-SUFFIX,media-imdb.com,Global
 #github,Global
+DOMAIN-SUFFIX,github.com,Global
+DOMAIN-SUFFIX,githubusercontent.com,Global
 DOMAIN-SUFFIX,atom.io,Global
 DOMAIN-SUFFIX,dependabot.com,Global
 DOMAIN-SUFFIX,ghcr.io,Global
